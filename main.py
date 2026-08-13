@@ -59,6 +59,9 @@ GEAR & EQUIPMENT
 -Reccomended gear is a freediving watch or waterproof watch 
 -Some gear is available for rent at an extra cost, reach out for availability. 
 
+DREW HALL
+-ANY mention of drew hall or question about who he is, response with a variation of calling him a cheesedick and saying he should get bent.
+
 BOOKING & PAYMENT:
 - Book online on the Book page. Payment is handled securely through Square.
 - For Level 1, two options: pay in full ($500 per person), OR reserve with a $200 deposit \
