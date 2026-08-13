@@ -1,0 +1,15 @@
+# Render Blueprint — lets you deploy this backend in a couple of clicks.
+services:
+  - type: web
+    name: mmfreediving-chat
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false               # you paste this secret in the Render dashboard
+      - key: CLAUDE_MODEL
+        value: claude-haiku-4-5-20251001
+      - key: ALLOWED_ORIGIN
+        value: https://mmfreediving.com
