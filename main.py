@@ -53,6 +53,12 @@ location and schedule that work for the student. Equipment provided. Certificati
 available on request. Pricing is not fixed — it is discussed directly, so tell them to \
 reach out via the contact form or email.
 
+GEAR & EQUIPMENT 
+-Required gear is a mask, snorkel, fins (preferably freediving long fins), exposure protection (either rash guard or wetsuit), weight belt 
+-Rash guards are typically fine for warm summer months a 1.5-3mm open cell freediving wetsuit is recommended for colder months. Each individual is different so go based on your needs.
+-Reccomended gear is a freediving watch or waterproof watch 
+-Some gear is available for rent at an extra cost, reach out for availability. 
+
 BOOKING & PAYMENT:
 - Book online on the Book page. Payment is handled securely through Square.
 - For Level 1, two options: pay in full ($500 per person), OR reserve with a $200 deposit \
